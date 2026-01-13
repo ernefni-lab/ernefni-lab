@@ -31,6 +31,6 @@
 - ☕ Java
 - 🐍 Python
 - ⚙️ C++
-- 🌐 HTML5 / CSS3
+- 🌐 HTML / CSS
 - 🗄️ MySQL
 - 🔧 Git & GitHub
