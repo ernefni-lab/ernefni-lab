@@ -21,7 +21,7 @@
 - 💻 I work with **Java, C++, Python, HTML & CSS**
 - 🗄️ Database experience with **MySQL**
 - ⚙️ I build logic-focused and structured applications
-- 🌱 Currently learning **Python** in depth (automation, backend & scripting)
+- ✍️ Currently learning **Python** in depth (automation, backend & scripting)
 - 📚 Constantly improving my problem-solving and clean code skills
 - 🐶 Dog & cat lover
 - 🎮 Shooter & action gamer
