@@ -1,7 +1,7 @@
 <!--**ernefni-lab/ernefni-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTg3MmxraGo5bTBkYnR1dTBvdTNmbnZ2YzhsaXdqaHV0c3JiZTY3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UzvlLpSulVBn7ZIucS/giphy.gif" width="180" alt="Tech animation"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ernesto Flores</h1>
