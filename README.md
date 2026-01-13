@@ -1,7 +1,7 @@
 <!--**ernefni-lab/ernefni-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <p align="center">
-  <img src="URL_DEL_GIF" width="180"/>
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ernesto Flores</h1>
