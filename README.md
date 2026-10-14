@@ -14,7 +14,7 @@
 
 <h1 align="center">Hi 👋, I'm Ernesto Flores</h1>
 
-<h3 align="center">🎯 Junior Software Developer | Java & C++ | Currently learning Python</h3>
+<h3 align="center">🎯 Junior Software Developer & Automation | Python • Linux • SQL • Java</h3>
 
 ### 👨‍💻 About me
 
@@ -23,7 +23,6 @@
 - ⚙️ I build logic-focused and structured applications
 - ✍️ Currently learning **Python** in depth (automation, backend & scripting)
 - 📚 Constantly improving my problem-solving and clean code skills
-- 🐶 Dog & cat lover
 - 🎮 Shooter & action gamer
 
 ### 🧰 Languages & Tools
